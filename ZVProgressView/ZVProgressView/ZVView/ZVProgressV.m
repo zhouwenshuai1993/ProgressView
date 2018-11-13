@@ -92,7 +92,7 @@
 
 
 
-
+//设置当前状态进行的程度
 - (void)currentSelectProgress:(NSString *)indexSelect{
     //横线拿出来单独处理
     if (_flageT == YES) {
